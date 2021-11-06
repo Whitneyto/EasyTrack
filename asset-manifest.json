@@ -1,23 +1,22 @@
 {
   "files": {
     "main.css": "/EasyTrack/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/EasyTrack/static/js/main.515a18d0.chunk.js",
-    "main.js.map": "/EasyTrack/static/js/main.515a18d0.chunk.js.map",
+    "main.js": "/EasyTrack/static/js/main.373d6d53.chunk.js",
+    "main.js.map": "/EasyTrack/static/js/main.373d6d53.chunk.js.map",
     "runtime-main.js": "/EasyTrack/static/js/runtime-main.2a472954.js",
     "runtime-main.js.map": "/EasyTrack/static/js/runtime-main.2a472954.js.map",
-    "static/js/2.c617628a.chunk.js": "/EasyTrack/static/js/2.c617628a.chunk.js",
-    "static/js/2.c617628a.chunk.js.map": "/EasyTrack/static/js/2.c617628a.chunk.js.map",
+    "static/js/2.76bab035.chunk.js": "/EasyTrack/static/js/2.76bab035.chunk.js",
+    "static/js/2.76bab035.chunk.js.map": "/EasyTrack/static/js/2.76bab035.chunk.js.map",
     "static/js/3.46ec56f3.chunk.js": "/EasyTrack/static/js/3.46ec56f3.chunk.js",
     "static/js/3.46ec56f3.chunk.js.map": "/EasyTrack/static/js/3.46ec56f3.chunk.js.map",
     "index.html": "/EasyTrack/index.html",
     "static/css/main.8c8b27cf.chunk.css.map": "/EasyTrack/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.c617628a.chunk.js.LICENSE.txt": "/EasyTrack/static/js/2.c617628a.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/EasyTrack/static/media/logo.6ce24c58.svg"
+    "static/js/2.76bab035.chunk.js.LICENSE.txt": "/EasyTrack/static/js/2.76bab035.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.2a472954.js",
-    "static/js/2.c617628a.chunk.js",
+    "static/js/2.76bab035.chunk.js",
     "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.515a18d0.chunk.js"
+    "static/js/main.373d6d53.chunk.js"
   ]
 }
