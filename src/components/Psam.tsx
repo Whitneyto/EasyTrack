@@ -9,6 +9,7 @@ export function Psam({P}:{P:Psample}): JSX.Element {
         <Card.Body>
             <Card.Title>{P.name}</Card.Title>
             <Card.Subtitle className="mb-2 text-muted">{P.data}</Card.Subtitle>
+            <Card.Body>{P.comment}</Card.Body>
         </Card.Body>
     </Card>
 }

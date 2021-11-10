@@ -102,7 +102,7 @@ function App() {
   return (
     <div className="App">
       <Row>
-        <div>SEARCH BAR</div>
+        <Col><div>SEARCH BAR</div></Col>
         <Col><Button onClick={() => setShow(true)}>Add Sample</Button></Col>
       </Row>
       <Row>
