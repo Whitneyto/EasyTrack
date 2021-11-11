@@ -14,7 +14,7 @@ interface iSam {
     setSamples: (s: Psample[]) => void;
 }
 export function SampleCol({ samples, setSamples }: iSam): JSX.Element {
-    console.log(samples);
+    //console.log(samples);
     return <Container>
         <Row>
             {samples.map(P => //map all P
